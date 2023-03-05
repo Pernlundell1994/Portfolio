@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/plundell/.nuget/packages/": {}
+    "/home/pern/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/plundell/Documents/Portfolio/Portfolio.csproj",
+      "projectUniqueName": "/home/pern/Documents/Portfolio/Portfolio.csproj",
       "projectName": "Portfolio",
-      "projectPath": "/home/plundell/Documents/Portfolio/Portfolio.csproj",
-      "packagesPath": "/home/plundell/.nuget/packages/",
-      "outputPath": "/home/plundell/Documents/Portfolio/obj/",
+      "projectPath": "/home/pern/Documents/Portfolio/Portfolio.csproj",
+      "packagesPath": "/home/pern/.nuget/packages/",
+      "outputPath": "/home/pern/Documents/Portfolio/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/plundell/.nuget/NuGet/NuGet.Config"
+        "/home/pern/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/7.0.103/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.201/RuntimeIdentifierGraph.json"
       }
     }
   }
