@@ -1,0 +1,15 @@
+/home/plundell/Documents/Portfolio/bin/Debug/net7.0/Portfolio
+/home/plundell/Documents/Portfolio/bin/Debug/net7.0/Portfolio.deps.json
+/home/plundell/Documents/Portfolio/bin/Debug/net7.0/Portfolio.runtimeconfig.json
+/home/plundell/Documents/Portfolio/bin/Debug/net7.0/Portfolio.dll
+/home/plundell/Documents/Portfolio/bin/Debug/net7.0/Portfolio.pdb
+/home/plundell/Documents/Portfolio/obj/Debug/net7.0/Portfolio.csproj.AssemblyReference.cache
+/home/plundell/Documents/Portfolio/obj/Debug/net7.0/Portfolio.GeneratedMSBuildEditorConfig.editorconfig
+/home/plundell/Documents/Portfolio/obj/Debug/net7.0/Portfolio.AssemblyInfoInputs.cache
+/home/plundell/Documents/Portfolio/obj/Debug/net7.0/Portfolio.AssemblyInfo.cs
+/home/plundell/Documents/Portfolio/obj/Debug/net7.0/Portfolio.csproj.CoreCompileInputs.cache
+/home/plundell/Documents/Portfolio/obj/Debug/net7.0/Portfolio.dll
+/home/plundell/Documents/Portfolio/obj/Debug/net7.0/refint/Portfolio.dll
+/home/plundell/Documents/Portfolio/obj/Debug/net7.0/Portfolio.pdb
+/home/plundell/Documents/Portfolio/obj/Debug/net7.0/Portfolio.genruntimeconfig.cache
+/home/plundell/Documents/Portfolio/obj/Debug/net7.0/ref/Portfolio.dll
