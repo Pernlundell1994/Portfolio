@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/pern/Documents/Portfolio/Portfolio.csproj": {}
+    "/home/plundell/Documents/Portfolio/Portfolio.csproj": {}
   },
   "projects": {
-    "/home/pern/Documents/Portfolio/Portfolio.csproj": {
+    "/home/plundell/Documents/Portfolio/Portfolio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/pern/Documents/Portfolio/Portfolio.csproj",
+        "projectUniqueName": "/home/plundell/Documents/Portfolio/Portfolio.csproj",
         "projectName": "Portfolio",
-        "projectPath": "/home/pern/Documents/Portfolio/Portfolio.csproj",
-        "packagesPath": "/home/pern/.nuget/packages/",
-        "outputPath": "/home/pern/Documents/Portfolio/obj/",
+        "projectPath": "/home/plundell/Documents/Portfolio/Portfolio.csproj",
+        "packagesPath": "/home/plundell/.nuget/packages/",
+        "outputPath": "/home/plundell/Documents/Portfolio/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/pern/.nuget/NuGet/NuGet.Config"
+          "/home/plundell/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/7.0.103/RuntimeIdentifierGraph.json"
         }
       }
     }
